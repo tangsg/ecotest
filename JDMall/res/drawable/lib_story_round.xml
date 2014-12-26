@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="ring" android:thicknessRatio="2.0" android:useLevel="false" android:innerRadius="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ff282828" />
+    <size android:height="@dimen/lib_story_product_indicator_round_radius" android:width="@dimen/lib_story_product_indicator_round_radius" />
+</shape>
